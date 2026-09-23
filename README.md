@@ -1,6 +1,6 @@
 <h1 align="center">
 Technical Program Manager's Handbook, Second Edition</h1>
-<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/technical-program-managers-handbook-second-edition/9781836200475"> Technical Program Manager's Handbook, Second Edition</a>, published by Packt.
+<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/technical-program-managers-handbook-9781836200468"> Technical Program Manager's Handbook, Second Edition</a>, published by Packt.
 </p>
 
 <h2 align="center">
